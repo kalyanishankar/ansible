@@ -4,7 +4,4 @@
   tasks:
   - name: iam going to ping all hosts(nodes)
     ping:
-  - name: install tree on all nodes
-    apt:
-      name: tree
-      state: present
+  
