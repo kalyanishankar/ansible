@@ -1,7 +1,0 @@
----
-- host: all
-  become: yes
-  tasks:
-  - name: iam going to ping all hosts(nodes)
-    ping:
-  
